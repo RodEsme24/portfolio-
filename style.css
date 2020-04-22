@@ -1,6 +1,10 @@
 
 .mynav{background-image: url('images.jpg');height: 900px;}
 .navbar{background-color:black;}
-.card{background-color: blueviolet;}
+.card{background-color: blueviolet; font-size: 25px;}
 .navbar-brand{font-size: 40px;}
 .for{background-color: blueviolet;}
+.navbar-brand2{font-size: 25px;}
+.card-title{font-size: 35px;}
+.card-text2{font-size: 35px;}
+.nav-link2{font-size: 25px;}
